@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RegistrationWithDB</string>
+
+    <string name="hint_name">Enter User Name</string>
+    <string name="hint_phone">Enter User Phone</string>
+    <string name="hint_email">Enter User Email</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_id">Email id</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="add_your_selfie">Add your selfie</string>
+    <string name="signature">Signature</string>
+    <string name="interest">Interest</string>
+    <string name="notes">Notes</string>
+    <string name="select_dob">Click here to set Your Date Of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_interest">Select Interest</string>
+    <string name="submit">Submit</string>
+    <string name="example">Select Date of Birth to set Age</string>
+    <string name="maths">Maths</string>
+    <string name="english">English</string>
+    <string name="science">Science</string>
+    <string name="thousand">1000</string>
+    <string name="total">Total</string>
+</resources>
